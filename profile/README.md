@@ -5,6 +5,7 @@
 
 👩‍💻 Useful resources: 
 [Research Software Directory](https://research-software-directory.org/projects/ptypes)
+[I'm an inline-style link](https://open.spotify.com/episode/7bv14RRx36tbkSxB9Pxpxx)
 
 🍿 Fun facts - what does your team eat for breakfast?
 
