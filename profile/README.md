@@ -14,6 +14,7 @@
 
 
 👩‍💻 Useful resources: 
+- [Porn types website](https://porn-types.com/)
 - [Research Software Directory](https://research-software-directory.org/projects/ptypes)
 - [Podcast about Research Project](https://open.spotify.com/episode/7bv14RRx36tbkSxB9Pxpxx)
 
